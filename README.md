@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyaanMirza
 - 👀 I’m interested in programming, machine learning, and AI
-- 🌱 I’m currently learning through CS50
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project or future startup idea
 - 📫 How to reach me: ayaanmirza017@gmail.com 
 
