@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyaanMirza
+- 👋 Hi, I’m @ayaanmirza
 - 👀 I’m interested in programming, machine learning, and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project or future startup idea
