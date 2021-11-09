@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayaanmirza
 - 👀 I’m interested in programming, machine learning, and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a project or future startup idea
+- 🌱 I’m currently learning Python and HTML/CSS/JS
+- 💞️ I’m looking to collaborate on a project/startup (Contact me first!)
 - 📫 How to reach me: ayaanmirza017@gmail.com 
 
 <!---
