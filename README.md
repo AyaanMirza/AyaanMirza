@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayaanmirza
-- 👀 I’m interested in programming, machine learning, and AI
+- 👀 I’m interested in full-stack web dev.
 - 🌱 I’m currently learning Python and HTML/CSS/JS
 - 💞️ I’m looking to collaborate on a project/startup (Contact me first!)
 - 📫 How to reach me: ayaanmirza017@gmail.com 
